@@ -18,3 +18,22 @@ Gaussian Mixture Model (GMM): GMM clustering is applied to the image data to ide
 Neural Network Training: A neural network model is built and trained using the image data to classify images into predefined categories. The model's training progress and performance are visualized using accuracy and loss metrics.
 
 Model Evaluation: The trained model's activations are compared with human rankings using Procrustes analysis to assess the model's performance and alignment with human perception.
+
+
+Technologies Used:
+
+Python: The primary programming language for developing the entire project.
+
+TensorFlow and Keras: Used for deep learning tasks such as image preprocessing, building neural network models, and extracting features from images.
+
+Scikit-learn: Utilized for various machine learning tasks such as dimensionality reduction (PCA), clustering (K-Means, Gaussian Mixture Models), and manifold learning (t-SNE, Locally Linear Embedding, MDS).
+
+Matplotlib: Employed for data visualization purposes, including plotting images, scatter plots, and other visualizations.
+
+NumPy: Used for numerical computations and array manipulations, particularly in handling image data.
+
+Pandas: Used for organizing and analyzing data, particularly in generating tables to display analysis results.
+
+Google Colab: Utilized as the development environment for running Python code, leveraging its cloud-based computational resources.
+
+Image Processing Libraries (e.g., PIL, scikit-image): Employed for loading, processing, and transforming image data.

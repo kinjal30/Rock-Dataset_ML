@@ -3,7 +3,7 @@
 Welcome to image analysis and classification project! This Python script leverages techniques like PCA and K-Means clustering to analyze and group images based on their features. 
 It also includes a neural network for image classification, providing accurate categorization of images. Check out the code to explore how it simplifies image analysis and enhances classification accuracy!
 
-Description:
+# Description:
 
 Data Preprocessing: Images are loaded and preprocessed using the load_and_preprocess_images function. The images are resized to a specified dimension and converted into arrays.
 
@@ -20,7 +20,7 @@ Neural Network Training: A neural network model is built and trained using the i
 Model Evaluation: The trained model's activations are compared with human rankings using Procrustes analysis to assess the model's performance and alignment with human perception.
 
 
-Technologies Used:
+# Technologies Used:
 
 Python: The primary programming language for developing the entire project.
 
